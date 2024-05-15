@@ -11,5 +11,12 @@ package com.mycompany.mapas;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hola");
-    }
+         System.out.println("Hola");
+          System.out.println("Hola");
+           System.out.println("Hola");
+           
+           System.out.println("Adiós");
+           System.out.println("Adiós");
+    }         
+    
 }
